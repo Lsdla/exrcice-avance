@@ -1,0 +1,15 @@
+@media all and (max-device-width: 500px)
+{
+
+    section{
+        width:85%;
+        margin-top: 3rem;
+    }
+}
+@media (max-device-width: 400px) {
+    section{
+        width:85%;
+        margin-top: 3rem;
+    }
+}
+
